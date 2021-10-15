@@ -1,0 +1,9 @@
+TELEGRAM_TOKEN:str = ''
+HOST_UNIX_PASSWORD:str = ''
+IP_RANGE = ''
+MAC_MEMBER_MAPPING = {
+
+}
+ALLOWED_IDS=[
+
+]
